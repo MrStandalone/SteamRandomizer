@@ -1,0 +1,13 @@
+C:\Users\admin\Documents\Visual Studio 2017\Projects\MySteamAPI\MySteamAPI\bin\Debug\netcoreapp2.0\MySteamApp.API.Core.deps.json
+C:\Users\admin\Documents\Visual Studio 2017\Projects\MySteamAPI\MySteamAPI\bin\Debug\netcoreapp2.0\MySteamApp.API.Core.runtimeconfig.json
+C:\Users\admin\Documents\Visual Studio 2017\Projects\MySteamAPI\MySteamAPI\bin\Debug\netcoreapp2.0\MySteamApp.API.Core.runtimeconfig.dev.json
+C:\Users\admin\Documents\Visual Studio 2017\Projects\MySteamAPI\MySteamAPI\bin\Debug\netcoreapp2.0\MySteamApp.API.Core.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\MySteamAPI\MySteamAPI\obj\Debug\netcoreapp2.0\MySteamApp.API.Core.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2017\Projects\MySteamAPI\MySteamAPI\obj\Debug\netcoreapp2.0\MySteamApp.API.Core.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Visual Studio 2017\Projects\MySteamAPI\MySteamAPI\obj\Debug\netcoreapp2.0\MySteamApp.API.Core.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Visual Studio 2017\Projects\MySteamAPI\MySteamAPI\obj\Debug\netcoreapp2.0\MySteamApp.API.Core.AssemblyInfo.cs
+C:\Users\admin\Documents\Visual Studio 2017\Projects\MySteamAPI\MySteamAPI\bin\Debug\netcoreapp2.0\MySteamApp.API.Core.pdb
+C:\Users\admin\Documents\Visual Studio 2017\Projects\MySteamAPI\MySteamAPI\obj\Debug\netcoreapp2.0\MySteamApp.API.Core.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\MySteamAPI\MySteamAPI\obj\Debug\netcoreapp2.0\MySteamApp.API.Core.pdb
+C:\Users\admin\Documents\Visual Studio 2017\Projects\MySteamAPI\MySteamAPI\bin\Debug\netcoreapp2.0\MySteamApp.API.Common.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\MySteamAPI\MySteamAPI\bin\Debug\netcoreapp2.0\MySteamApp.API.Common.pdb
